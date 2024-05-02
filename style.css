@@ -84,4 +84,6 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
-
+.container__botao {
+    background-color: var(--botao-azul);
+    }
